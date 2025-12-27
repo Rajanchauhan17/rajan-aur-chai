@@ -1,0 +1,5 @@
+console.log(typeof(gameName1))
+// console.log(gameName1.length)
+// console.log(gameName1.toUpperCase())
+// console.log(gameName1.charAt(3))
+// console.log(gameName1.indexOf('a'))
